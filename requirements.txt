@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiohttp
+python-dotenv
+openai
